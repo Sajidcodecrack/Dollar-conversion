@@ -22,6 +22,7 @@ public class Currency{
         float amount=Float.parseFloat(a);
         JOptionPane.showMessageDialog(null,"The amount in USD: " +amount/rate,
         "Converted to USD ",JOptionPane.INFORMATION_MESSAGE);
+        //Sajid vai assalamu alaikum.kemon asen vai?
 
     }
 
